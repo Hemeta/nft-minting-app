@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x502e8cb97969cc500543de565bfe7d34f0484bb8",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x502e8cb97969cc500543de565bfe7d34f0484bb8",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "MATIC",
+    "ID": 80001
   },
   "NFT_NAME": "TEST KACI 4",
   "SYMBOL": "KACI4",
