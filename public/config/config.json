@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x502e8cb97969cc500543de565bfe7d34f0484bb8",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x502e8cb97969cc500543de565bfe7d34f0484bb8",
+  "CONTRACT_ADDRESS": "0x044e67a9b04e1daa42b7f7d8ce4eab4678a851b1",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x044e67a9b04e1daa42b7f7d8ce4eab4678a851b1",
   "NETWORK": {
     "NAME": "Mumbai Testnet",
     "SYMBOL": "MATIC",
     "ID": 80001
   },
-  "NFT_NAME": "TEST KACI 4",
-  "SYMBOL": "KACI4",
+  "NFT_NAME": "TEST KACI",
+  "SYMBOL": "KACI",
   "MAX_SUPPLY": 10,
   "WEI_COST": 400000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-kaci-4",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-kaci",
   "SHOW_BACKGROUND": true
 }
